@@ -20,6 +20,16 @@ This repository serves as a companion to the blog series on recommender systems 
 - `/data`: Sample datasets used in the notebooks and examples.
 - `/docs`: Additional documentation and resources related to recommender systems.
 
+## Installation
+
+```bash
+conda create -n medium-recsys-series python=3.10 jupyterlab
+  
+conda activate medium-recsys-series
+
+pip install -r requirements.txt
+```
+
 ## Datasets
 
 The `/data` directory contains sample datasets used in the examples and notebooks. These datasets are provided for educational purposes and may not be suitable for production use. For real-world applications, you should use larger and more comprehensive datasets relevant to your specific domain.
