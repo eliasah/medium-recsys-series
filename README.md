@@ -41,7 +41,7 @@ This repository accompanies a comprehensive blog series on recommender systems p
             - Visualization tools
             - Performance analysis
 
-4. [Introduction to Recommender System Evaluation Beyond Accuracy](https://medium.com/@eliasah/introduction-to-recommender-system-evaluation-beyond-accuracy-3f0c8b1d2a4f)  
+4. [Introduction to Recommender System Evaluation Beyond Accuracy](https://medium.com/@eliasah/beyond-accuracy-a-complete-guide-to-evaluating-recommender-systems-f33dabc04e23)  
    - Multi-dimensional evaluation framework
    - Rating prediction, ranking, and classification metrics
    - Beyond-accuracy metrics: diversity, coverage, novelty
